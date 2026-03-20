@@ -27,5 +27,3 @@ Es handelt sich um einen Konsolen-Taschenrechner, mit dem grundlegende Rechenope
 - grundlegende Programmstruktur in C++
 
 ---
-
-## Starten
